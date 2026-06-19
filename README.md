@@ -41,6 +41,9 @@ lifecare-master/
 ├── js/
 │   └── veloria.js      # Animations, navigation, form AJAX
 └── images/
+    ├── favicon.svg
+    ├── favicon-32.png
+    ├── apple-touch-icon.png
     ├── hero.jpg
     ├── about-main.jpg
     ├── about-float.jpg
